@@ -1,0 +1,15 @@
+header{
+    
+    background-image: linear-gradient(#57a4b59f,#57a4b5a8),
+    url(../images/mountains.jpg);
+    
+    background-position: center;
+    background-size: cover;
+}
+.navbar{
+    box-shadow: 0 1px 10px #57A4B5;
+    
+}
+#meet img{
+    margin-top: -70px;
+}
